@@ -1,0 +1,6 @@
+F:\BLOG\AjaxExample.git\trunk\bin\AjaxExample.dll.config
+F:\BLOG\AjaxExample.git\trunk\bin\AjaxExample.dll
+F:\BLOG\AjaxExample.git\trunk\bin\AjaxExample.pdb
+F:\BLOG\AjaxExample.git\trunk\obj\Debug\AjaxExample.csprojResolveAssemblyReference.cache
+F:\BLOG\AjaxExample.git\trunk\obj\Debug\AjaxExample.dll
+F:\BLOG\AjaxExample.git\trunk\obj\Debug\AjaxExample.pdb

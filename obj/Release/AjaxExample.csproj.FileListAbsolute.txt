@@ -1,0 +1,6 @@
+F:\70-480\Training\70-480\AjaxExample\bin\AjaxExample.dll.config
+F:\70-480\Training\70-480\AjaxExample\bin\AjaxExample.dll
+F:\70-480\Training\70-480\AjaxExample\bin\AjaxExample.pdb
+F:\70-480\Training\70-480\AjaxExample\obj\Release\AjaxExample.csprojResolveAssemblyReference.cache
+F:\70-480\Training\70-480\AjaxExample\obj\Release\AjaxExample.dll
+F:\70-480\Training\70-480\AjaxExample\obj\Release\AjaxExample.pdb
